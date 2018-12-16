@@ -68,7 +68,7 @@ h3 {
   width: 250px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 90px;
   color: #ffffff;
@@ -300,6 +300,7 @@ nav {
   position: static;
   width: 100%;
   margin: 0;
+  font-size: 30px;
 }
 
 nav {
